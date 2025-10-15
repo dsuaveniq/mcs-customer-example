@@ -1,0 +1,4 @@
+chart:
+  repository: helm repo add open-telemetry https://open-telemetry.github.io/opentelemetry-helm-charts
+  name: open-telemetry/opentelemetry-demo
+  version: 0.38.1
