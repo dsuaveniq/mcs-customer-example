@@ -1,0 +1,4 @@
+chart:
+  repository: https://charts.jetstack.io
+  name: cert-manager
+  version: 1.19.0
