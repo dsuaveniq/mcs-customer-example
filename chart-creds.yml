@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: github-example
+  namespace: default
+  labels:
+    argocd.argoproj.io/secret-type: repo-creds
+stringData:
+  type: helm
+  url: csimcsest-hve8awf4bwcrggeu.azurecr.io/helm
+  username: csimcsest
+  password: 2Y6/cFm5uDsvWI6uPdxnRn3g5My5J3w5UnQkzPlIE6+ACRDfo6P3
