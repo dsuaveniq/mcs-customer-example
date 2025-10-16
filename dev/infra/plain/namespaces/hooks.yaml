@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: hooks
   labels:
-    - k8s.sulzer.io/type: repository
+    k8s.sulzer.io/type: repository
