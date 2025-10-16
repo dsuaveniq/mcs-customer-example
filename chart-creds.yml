@@ -4,10 +4,10 @@ metadata:
   name: chart-creds
   namespace: default
   labels:
-    argocd.argoproj.io/secret-type: repo-creds
+    argocd.argoproj.io/secret-type: repository
 stringData:
   type: helm
-  url: csimcsest-hve8awf4bwcrggeu.azurecr.io/helm
+  url: csimcsest-hve8awf4bwcrggeu.azurecr.io
   username: csimcsest
-  password: 2Y6/cFm5uDsvWI6uPdxnRn3g5My5J3w5UnQkzPlIE6+ACRDfo6P3
+  password: Gj1vjaRSbDQVgCY6RWk0kfb2s6/QMZoN4KpbHtKwHq+ACRAb1yuI
   enableOCI: "true"

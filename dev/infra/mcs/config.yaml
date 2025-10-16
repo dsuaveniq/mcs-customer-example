@@ -1,4 +1,0 @@
-chart:
-  repository: csimcsest-hve8awf4bwcrggeu.azurecr.io
-  name: helm/managed-container-service
-  version: 0.1.0
