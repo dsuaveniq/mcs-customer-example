@@ -1,3 +1,4 @@
 argo-cd:
   server:
-    ingressClassName: "nginx"
+    ingress:
+      ingressClassName: "nginx"
