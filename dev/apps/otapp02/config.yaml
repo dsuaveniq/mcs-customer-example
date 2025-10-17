@@ -1,6 +1,0 @@
-chart:
-  repository: https://open-telemetry.github.io/opentelemetry-helm-charts
-  name: opentelemetry-demo
-  version: 0.38.1
-app:
-  namespace: purple
