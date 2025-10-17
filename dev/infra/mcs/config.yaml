@@ -1,6 +1,6 @@
 chart:
-  repository: mcstest123-bwdedfeggabvefb7.azurecr.io
-  name: managed-container-service
-  version: 0.1.0
+  repository: registry.aveniq.cloud
+  name: mcs/mcs-tenant-management
+  version: 0.0.7
 app:
-  namespace: default
+  namespace: tenant-management
