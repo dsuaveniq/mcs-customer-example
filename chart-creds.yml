@@ -7,7 +7,7 @@ metadata:
     argocd.argoproj.io/secret-type: repository
 stringData:
   type: helm
-  url: csimcsest-hve8awf4bwcrggeu.azurecr.io
-  username: csimcsest
+  url: mcstest123-bwdedfeggabvefb7.azurecr.io
+  username: mcstest123
   password: Gj1vjaRSbDQVgCY6RWk0kfb2s6/QMZoN4KpbHtKwHq+ACRAb1yuI
   enableOCI: "true"
