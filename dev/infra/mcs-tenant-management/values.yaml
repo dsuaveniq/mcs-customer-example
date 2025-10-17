@@ -1,4 +1,1 @@
-argo-cd:
-  server:
-    ingress:
-      ingressClassName: "nginx"
+version: "0.0.6"
