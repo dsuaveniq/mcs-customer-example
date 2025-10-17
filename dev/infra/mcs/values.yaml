@@ -1,6 +1,0 @@
-# -- String to fully override `"argo-cd.fullname"`
-fullnameOverride: "mcs"
-
-server:
-  ingress:
-    ingressClassName: "nginx"
