@@ -3,4 +3,4 @@ chart:
   name: managed-container-service
   version: 0.1.0
 app:
-  namespace: green
+  namespace: default
