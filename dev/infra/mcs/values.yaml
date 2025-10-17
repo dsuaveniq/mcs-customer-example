@@ -1,0 +1,2 @@
+# -- String to fully override `"argo-cd.fullname"`
+nameOverride: "mcs"
